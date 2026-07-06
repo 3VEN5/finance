@@ -1,0 +1,4 @@
+bashpkill -f FutuOpenD; sleep 2
+cd ~/Downloads/Futu_OpenD_10.7.6728_Mac/Futu_OpenD_10.7.6728_Mac
+bash fixrun.sh
+./FutuOpenD.app/Contents/MacOS/FutuOpenD -login_account=36170856 -login_pwd="Lwq20060908" -lang=chs
